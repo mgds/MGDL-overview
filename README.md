@@ -4,4 +4,6 @@ Marine Geoscience Data System began development in 2004. Code repositories inclu
 
 
 Repositories include:
-- [GMRTMapTool](https://github.com/mgds/gmrtMapTool) - front end code for driving the (GMRT MapTool)[https://www.gmrt.org]
+- [GMRTMapTool](https://github.com/mgds/gmrtMapTool) - front end code for driving the [GMRT MapTool](https://www.gmrt.org)
+- [ASP-IntegratedMap](https://github.com/mgds/ASP-IntegratedMap)
+- [home_mgds_local](https://github.com/mgds/home_mgds_local) - a *private* repository that includes line command code for data ingestion and verification, as well as crons that validate database integrity.  This code was developed over the past decade and a half and public distribution was not part of the design spec.  Making this content publicly accessible poses potential security risks to our system.
