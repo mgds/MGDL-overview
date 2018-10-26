@@ -1,6 +1,6 @@
 # Overview of MGDL Repositories
 
-Marine Geoscience Digital Library began development in 2004. Code repositories include both back-end and front-end code components that are used for data curation and ingestion as well as data discovery, access and download. At present, much of this code is in private repositories to ensure security of our systems.
+Marine Geoscience Digital Library began development in 2004. Code repositories include both back-end and front-end code components that are used for data curation and ingestion as well as data discovery, access and download. While all of our code is managed and backed up off-site through Git-Hub, at present, much of this code is in private repositories to ensure the security of our systems.
 
 
 Repositories include:
