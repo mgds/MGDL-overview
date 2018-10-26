@@ -4,4 +4,4 @@ Marine Geoscience Data System began development in 2004. Code repositories inclu
 
 
 Repositories include:
-- (GMRTMapTool)[https://github.com/mgds/gmrtMapTool] - front end code for driving the (GMRT MapTool)[https://www.gmrt.org]
+- [GMRTMapTool](https://github.com/mgds/gmrtMapTool) - front end code for driving the (GMRT MapTool)[https://www.gmrt.org]
